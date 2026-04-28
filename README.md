@@ -33,8 +33,9 @@ Automator bridges this gap by pairing the PowerShell engine with a dedicated STM
 automator/
 │
 ├── README.md
-├── Automator.ps1           — PowerShell state-machine automation engine
-└── AutomatorHID.c          — STM32 Embedded C USB HID firmware controller
+├── LICENSE
+├── AutomatorHID.c          — STM32 Embedded C USB HID firmware controller
+└── Automator.ps1           — PowerShell state-machine automation engine
 ```
 
 ---
